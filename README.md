@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/blue-team-toolbox/actions/workflows/python-checks.yml/badge.svg)
+
 # Blue Team Toolbox
 
 Offline text triage helpers for blue-team learning.
